@@ -55,7 +55,7 @@ export function About() {
                             <span className="text-sm text-muted-foreground uppercase tracking-widest">Years Exp.</span>
                         </div>
                         <div className="text-center border-l border-border">
-                            <span className="block text-3xl font-serif font-bold text-accent">50+</span>
+                            <span className="block text-3xl font-serif font-bold text-accent">20+</span>
                             <span className="text-sm text-muted-foreground uppercase tracking-widest">Projects</span>
                         </div>
                         <div className="text-center border-l border-border">
